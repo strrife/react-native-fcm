@@ -1,3 +1,8 @@
+## Notes from @strrife:
+
+The provided way of fixing versioning did not work for me (collision with react-native-maps).
+
+
 [![Join the chat at https://gitter.im/evollu/react-native-fcm](https://badges.gitter.im/evollu/react-native-fcm.svg)](https://gitter.im/evollu/react-native-fcm?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## NOTES:
