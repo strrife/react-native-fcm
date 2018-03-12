@@ -1,7 +1,7 @@
 
 #import <UIKit/UIKit.h>
 
-@import Firebase;
+#import <Firebase/Firebase.h>
 #import <React/RCTEventEmitter.h>
 
 @import UserNotifications;
